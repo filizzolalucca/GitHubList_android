@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHubList</string>
+    <string name="error_connection">Não foi possivel conectar, tente novamente</string>
+    <string name="error_repository">Não foi possivel se conectar ao repositorio</string>
+    <string name="error_other">Deu um erro generico</string>
+
+</resources>
